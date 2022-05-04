@@ -43,5 +43,5 @@ I am a young developer who likes to share his experience in development. I like 
 
 ![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.classic.svg)
 ![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.notable.svg)
-![Most used languages](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.languages.svg)
+![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.languages.svg)
 
