@@ -37,10 +37,6 @@ I am a young developer who likes to share his experience in development. I like 
 ![](https://img.shields.io/badge/Docker-007bff?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-## Networks ✉️
-
-- [LinkedIn](https://www.linkedin.com/in/alexandre-balle-199b36161)
-
 ## Github stats 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=lexbal&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
