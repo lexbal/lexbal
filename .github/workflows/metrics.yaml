@@ -17,3 +17,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+          commit_branch: stats
+          commit_message: "chore: update ${filename}"
