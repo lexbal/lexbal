@@ -42,6 +42,5 @@ I am a young developer who likes to share his experience in development. I like 
 ## Github stats 📊
 
 ![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.classic.svg)
-![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.notable.svg)
 ![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.languages.svg)
 
