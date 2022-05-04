@@ -19,3 +19,18 @@ jobs:
           plugin_lines: yes
           commit_branch: stats
           commit_message: "chore: update ${filename}"
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
+          plugin_languages_colors: rainbow
+          commit_branch: stats
+          commit_message: "chore: update ${filename}"
