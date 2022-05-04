@@ -16,18 +16,8 @@ jobs:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
+          config_display: large
           plugin_lines: yes
-  notable:
-    runs-on: ubuntu-latest
-    steps:  
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.notable.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
   languages:
     runs-on: ubuntu-latest
     steps:
