@@ -11,7 +11,7 @@
   <img src='https://visitor-badge.laobi.icu/badge?page_id=lexbal'>
   
   <a href="https://app.daily.dev/lexbal">
-    <img src="https://api.daily.dev/devcards/d6f3cf2d4ca644a6ba6a0a6ffd3ff466.png?r=w8q" width="300" align="right" alt="Alexandre's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/d6f3cf2d4ca644a6ba6a0a6ffd3ff466.png?r=w8q" width="240" align="right" alt="Alexandre's Dev Card"/>
   </a>
 </div>
     
@@ -39,4 +39,4 @@ I am a young developer who likes to share his experience in development. I like 
 
 ## Github stats 📊
 
-![](https://github-readme-stats.vercel.app/api?username=lexbal&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.plugin.lines.svg)
