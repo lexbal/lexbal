@@ -1,5 +1,20 @@
 # Hello, I am Alexandre 👋
 
+<div align="left">
+  <a href="https://github.com/lexbal">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  
+  <img src='https://visitor-badge.laobi.icu/badge?page_id=lexbal'>
+  
+  <a href="https://app.daily.dev/lexbal">
+    <img src="https://api.daily.dev/devcards/d6f3cf2d4ca644a6ba6a0a6ffd3ff466.png?r=w8q" width="300" align="right" alt="Alexandre's Dev Card"/>
+  </a>
+</div>
+    
 I am a young developer who likes to share his experience in development. I like building full-stack web applications as well as mobile applications. 
 
 - 📫 How to reach me: [alexballe35@gmail.com](mailto:alexballe35@gmail.com)
@@ -29,19 +44,3 @@ I am a young developer who likes to share his experience in development. I like 
 ## Github stats 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=lexbal&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=lexbal'></p>
-<!--
-**lexbal/lexbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
