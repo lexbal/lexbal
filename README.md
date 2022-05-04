@@ -37,7 +37,11 @@ I am a young developer who likes to share his experience in development. I like 
 ![](https://img.shields.io/badge/Docker-007bff?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+<br/>
+
 ## Github stats 📊
 
 ![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.classic.svg)
+![Metrics](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.notable.svg)
+![Most used languages](https://raw.githubusercontent.com/lexbal/lexbal/main/metrics.languages.svg)
 
